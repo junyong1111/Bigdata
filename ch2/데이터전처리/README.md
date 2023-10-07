@@ -1,67 +1,69 @@
-![스크린샷 2023-09-22 오후 11.47.04.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/60b7a12c-d798-4819-a350-0b02a52409b9/58b7d249-cb39-424c-a614-1a572a016cdf/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-09-22_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_11.47.04.png)
+<img width="1550" alt="1" src="https://github.com/junyong1111/Bigdata/assets/79856225/4370f77b-c58c-4d5d-a4bd-6e0611372378">
 
-![스크린샷 2023-09-22 오후 11.47.30.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/60b7a12c-d798-4819-a350-0b02a52409b9/f2c5f45c-3a46-434d-aec9-cf82303a6f1e/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-09-22_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_11.47.30.png)
+<img width="1444" alt="2" src="https://github.com/junyong1111/Bigdata/assets/79856225/c916b84d-e7bc-4d53-82cf-6e4214cd3384">
 
-![스크린샷 2023-09-22 오후 11.47.56.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/60b7a12c-d798-4819-a350-0b02a52409b9/9bc00631-bde1-4ca3-8844-b5348c15a41b/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-09-22_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_11.47.56.png)
+<img width="1183" alt="3" src="https://github.com/junyong1111/Bigdata/assets/79856225/3cd24b99-c887-4056-8fad-ad7722720950">
 
-![스크린샷 2023-09-22 오후 11.48.51.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/60b7a12c-d798-4819-a350-0b02a52409b9/88fd25c4-0de2-44ac-9303-cb00055cd426/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-09-22_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_11.48.51.png)
+<img width="1453" alt="4" src="https://github.com/junyong1111/Bigdata/assets/79856225/577e8a19-e739-4ff7-b7af-be13fc37c1f6">
 
-![스크린샷 2023-09-22 오후 11.51.38.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/60b7a12c-d798-4819-a350-0b02a52409b9/8df411f1-c3df-49f8-a4b1-3d6019bf332b/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-09-22_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_11.51.38.png)
+<img width="1540" alt="5" src="https://github.com/junyong1111/Bigdata/assets/79856225/cd74badf-66ed-4850-9aca-e65e2fe70cf4">
 
-![스크린샷 2023-09-22 오후 11.54.03.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/60b7a12c-d798-4819-a350-0b02a52409b9/ac32a586-e57d-418d-ba1e-f62fb157417b/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-09-22_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_11.54.03.png)
+<img width="1598" alt="6" src="https://github.com/junyong1111/Bigdata/assets/79856225/73b53c32-e654-4614-be0f-b36c9d57412a">
 
-![스크린샷 2023-09-22 오후 11.55.59.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/60b7a12c-d798-4819-a350-0b02a52409b9/0e0a03d2-728f-4343-bc7c-8ad14684ee4a/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-09-22_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_11.55.59.png)
+<img width="1514" alt="7" src="https://github.com/junyong1111/Bigdata/assets/79856225/5883e906-077d-44b3-a426-c97a4c497bab">
 
-![스크린샷 2023-09-22 오후 11.57.02.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/60b7a12c-d798-4819-a350-0b02a52409b9/f9499132-4005-4337-becc-e9898fdbfc81/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-09-22_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_11.57.02.png)
+<img width="1522" alt="8" src="https://github.com/junyong1111/Bigdata/assets/79856225/2379451e-1052-4424-8740-26cbd9325b82">
 
-![스크린샷 2023-09-22 오후 11.57.21.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/60b7a12c-d798-4819-a350-0b02a52409b9/a5818d34-deb0-4bd6-9336-ea1eef2584f1/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-09-22_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_11.57.21.png)
+<img width="1462" alt="9" src="https://github.com/junyong1111/Bigdata/assets/79856225/ee6ad902-3c7b-46cd-b9c2-a68cf0fe66c1">
 
-![스크린샷 2023-09-23 오전 12.00.36.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/60b7a12c-d798-4819-a350-0b02a52409b9/b3a8745d-5867-4911-a94b-e3f25766a71b/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-09-23_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_12.00.36.png)
+<img width="1438" alt="10" src="https://github.com/junyong1111/Bigdata/assets/79856225/ea64048b-9ced-4b05-8c01-10c43f274aa1">
 
-![스크린샷 2023-09-23 오전 12.01.05.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/60b7a12c-d798-4819-a350-0b02a52409b9/e1df6295-bbb6-43c4-a4a7-10bb7e25deb9/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-09-23_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_12.01.05.png)
+<img width="1554" alt="11" src="https://github.com/junyong1111/Bigdata/assets/79856225/e445e184-cdd8-4b0c-ad0b-4122468dc459">
 
-![스크린샷 2023-09-23 오전 12.02.14.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/60b7a12c-d798-4819-a350-0b02a52409b9/9b116f63-820a-470c-9eac-24f1e30b5345/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-09-23_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_12.02.14.png)
+<img width="1038" alt="12" src="https://github.com/junyong1111/Bigdata/assets/79856225/fc4de8c7-be62-486d-9129-da5c996398fd">
 
-![스크린샷 2023-09-23 오전 12.02.58.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/60b7a12c-d798-4819-a350-0b02a52409b9/b13f1deb-246b-4923-bb65-cc21f3749893/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-09-23_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_12.02.58.png)
+<img width="1185" alt="13" src="https://github.com/junyong1111/Bigdata/assets/79856225/4bb9dc0b-ad96-4c66-bd7e-9cfd3c8cffc4">
 
-![스크린샷 2023-09-23 오전 12.03.40.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/60b7a12c-d798-4819-a350-0b02a52409b9/f6d7ba40-380d-4b33-819b-c5441c11badb/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-09-23_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_12.03.40.png)
+<img width="1501" alt="14" src="https://github.com/junyong1111/Bigdata/assets/79856225/956f843d-6444-4e88-a39d-95462f61dcb3">
 
-![스크린샷 2023-09-23 오전 12.05.36.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/60b7a12c-d798-4819-a350-0b02a52409b9/e39c7beb-ef6c-4503-9f57-9d9693d1f865/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-09-23_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_12.05.36.png)
+<img width="1212" alt="15" src="https://github.com/junyong1111/Bigdata/assets/79856225/7c5ab3e7-dc65-4d11-b0c2-716ee743cc8c">
 
-![스크린샷 2023-09-23 오전 12.06.10.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/60b7a12c-d798-4819-a350-0b02a52409b9/28b86bcc-ad20-4816-ace0-2629fb06f850/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-09-23_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_12.06.10.png)
+<img width="1537" alt="16" src="https://github.com/junyong1111/Bigdata/assets/79856225/34a4ef0f-4b23-4e30-ad86-77c7e153418e">
 
-![스크린샷 2023-09-23 오전 12.07.02.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/60b7a12c-d798-4819-a350-0b02a52409b9/5cfc61a0-3b37-4c42-9503-647a2716ed7a/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-09-23_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_12.07.02.png)
+<img width="1521" alt="17" src="https://github.com/junyong1111/Bigdata/assets/79856225/51713bc8-2b65-48d1-8c2d-17d69e3ab726">
+
 
 ### 문제
 
-![스크린샷 2023-09-23 오전 12.08.52.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/60b7a12c-d798-4819-a350-0b02a52409b9/1c6a94f2-6559-417e-a62a-b49b9bc1aa3c/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-09-23_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_12.08.52.png)
+<img width="1600" alt="18" src="https://github.com/junyong1111/Bigdata/assets/79856225/93f153c0-8e59-4c02-b3ef-88ddcc96c2c2">
 
-![스크린샷 2023-09-23 오전 12.09.10.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/60b7a12c-d798-4819-a350-0b02a52409b9/a2f017ef-d06e-4626-a47c-a451958e7a19/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-09-23_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_12.09.10.png)
+<img width="1588" alt="19" src="https://github.com/junyong1111/Bigdata/assets/79856225/016be4ea-376e-4b84-b74b-eb3dd464904f">
 
-![스크린샷 2023-09-23 오전 12.09.28.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/60b7a12c-d798-4819-a350-0b02a52409b9/371bb67a-3335-45ea-922a-560b1270c01f/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-09-23_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_12.09.28.png)
 
-![스크린샷 2023-09-23 오전 12.09.42.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/60b7a12c-d798-4819-a350-0b02a52409b9/558f9356-44c8-4f1f-831d-d0d39a1f0672/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-09-23_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_12.09.42.png)
+<img width="1592" alt="20" src="https://github.com/junyong1111/Bigdata/assets/79856225/ea9ceb52-2179-4362-be9a-588a36f23b26">
 
-![스크린샷 2023-09-23 오전 12.10.02.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/60b7a12c-d798-4819-a350-0b02a52409b9/529f10fc-34f5-4f89-b2d1-177e5aec0545/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-09-23_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_12.10.02.png)
+<img width="1597" alt="21" src="https://github.com/junyong1111/Bigdata/assets/79856225/00c94f86-98e0-490c-ae08-8e118b9cccf9">
 
-![스크린샷 2023-09-23 오전 12.11.02.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/60b7a12c-d798-4819-a350-0b02a52409b9/cb43608a-6eac-4208-b375-1b6842faa5b0/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-09-23_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_12.11.02.png)
+<img width="1588" alt="22" src="https://github.com/junyong1111/Bigdata/assets/79856225/fb2e8e41-8250-4c78-a4df-0e8b87284fa9">
 
-![스크린샷 2023-09-23 오전 12.11.20.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/60b7a12c-d798-4819-a350-0b02a52409b9/d7f7395e-df78-4e95-8c80-0c82be9b3564/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-09-23_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_12.11.20.png)
+<img width="1588" alt="23" src="https://github.com/junyong1111/Bigdata/assets/79856225/91d0e8df-0581-4153-9f34-b59cf6981567">
 
-![스크린샷 2023-09-23 오전 12.11.38.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/60b7a12c-d798-4819-a350-0b02a52409b9/3cef7a26-b795-44d8-ab50-66818ef7bb35/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-09-23_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_12.11.38.png)
+<img width="1604" alt="24" src="https://github.com/junyong1111/Bigdata/assets/79856225/2cb05a9d-e5c9-43af-af2a-358bfc61523b">
 
-![스크린샷 2023-09-23 오전 12.11.57.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/60b7a12c-d798-4819-a350-0b02a52409b9/b76a9321-82bd-4af6-9e78-1ab94f351113/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-09-23_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_12.11.57.png)
+<img width="1576" alt="25" src="https://github.com/junyong1111/Bigdata/assets/79856225/a996f73c-dd3e-41ff-8f76-3d3e37f8ae13">
 
-![스크린샷 2023-09-23 오전 12.12.19.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/60b7a12c-d798-4819-a350-0b02a52409b9/f2c3648b-8c9d-4680-9811-5ac1723e094b/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-09-23_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_12.12.19.png)
+<img width="1596" alt="26" src="https://github.com/junyong1111/Bigdata/assets/79856225/8cd78a74-14ca-476f-9617-cd456e96dcfd">
 
-![스크린샷 2023-09-23 오전 12.13.06.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/60b7a12c-d798-4819-a350-0b02a52409b9/35059530-a0e7-4ed0-ba36-ce3706fa77ec/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-09-23_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_12.13.06.png)
+<img width="1589" alt="27" src="https://github.com/junyong1111/Bigdata/assets/79856225/c73871e9-cfc8-4f8f-a631-fac2024ea6a1">
 
-![스크린샷 2023-09-23 오전 12.13.25.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/60b7a12c-d798-4819-a350-0b02a52409b9/aa56341d-c2fa-489f-b793-4253f2dad347/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-09-23_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_12.13.25.png)
+<img width="1580" alt="28" src="https://github.com/junyong1111/Bigdata/assets/79856225/377b7a13-252c-409f-8fcc-4be69408df5a">
 
-![스크린샷 2023-09-23 오전 12.13.54.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/60b7a12c-d798-4819-a350-0b02a52409b9/1c497264-28d8-4225-a957-b0ae210cfbca/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-09-23_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_12.13.54.png)
+<img width="1608" alt="29" src="https://github.com/junyong1111/Bigdata/assets/79856225/0a88027b-5536-4e89-8746-8d50c8e58ba3">
 
-![스크린샷 2023-09-23 오전 12.14.21.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/60b7a12c-d798-4819-a350-0b02a52409b9/ec3f427c-d68d-40ab-b394-c2480244519f/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-09-23_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_12.14.21.png)
+<img width="1594" alt="30" src="https://github.com/junyong1111/Bigdata/assets/79856225/47b2750d-55a4-4726-8626-82ff46f3a2a8">
 
-![스크린샷 2023-09-23 오전 12.14.41.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/60b7a12c-d798-4819-a350-0b02a52409b9/b7f77bb0-6261-46e3-8fd5-b73033d531dc/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-09-23_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_12.14.41.png)
+<img width="1593" alt="31" src="https://github.com/junyong1111/Bigdata/assets/79856225/5d5a78ec-4129-46ce-a258-7385b686eadd">
 
-![스크린샷 2023-09-23 오전 12.15.15.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/60b7a12c-d798-4819-a350-0b02a52409b9/16cb5d0a-45a1-452c-b297-16bec984f2d4/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-09-23_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_12.15.15.png)
+<img width="1601" alt="32" src="https://github.com/junyong1111/Bigdata/assets/79856225/52757850-e9cd-45bd-9238-9cb50f6c7d87">
+
+<img width="1579" alt="33" src="https://github.com/junyong1111/Bigdata/assets/79856225/ce7cf694-5d3e-42c6-8d9c-86578c48bfd6">
