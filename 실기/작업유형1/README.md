@@ -191,3 +191,256 @@ df_new.head(3)
 ```
 
 ### 데이터 필터링
+
+```python
+ratings = (df["rating"] >=3) #-- 평점이 3이상만 필터링
+useID = (df["userId"] <=5) #-- Id가 5이히만 필터링
+print(len(df[ratings]))
+print(len(df[useID]))
+
+df[ratings & useID] #-- 2개 조건을 필터링
+```
+
+# 4. 데이터 정렬
+
+### 내림차순 정렬
+
+```python
+df = pd.read_csv(rating_path)
+df.sort_values('rating', ascending = False).head(5)
+```
+
+### 오름차순 정렬
+
+```python
+df = pd.read_csv(rating_path)
+df.sort_values('rating', ascending = True).head(5)
+```
+
+# 5. 데이터 변경
+
+```python
+df = pd.read_csv(rating_path)
+
+#-- rating의 값이 3이하인 값은 0으로 만들고 나머지는 그냥 유지
+df['rating'] = np.where(df['rating'] >= 3, df['rating'],0)
+#-- rating 프레임의 데이터 중 조건식이 true이면 1번째, false이면 2번째 값 대입
+
+df.sort_values('rating', ascending = True).head(5)
+```
+
+# 6. 데이터 결측치, 이상치, 중복치 제거(타이타닉 데이터세트)
+
+```python
+#-- 타이타닉 데이터 불러오기
+import seaborn as sns
+df = sns.load_dataset('titanic')
+print(df.shape) #-- 15개의 변수와 891개의 변수
+print(df.info())
+df.head(5)
+
+#-- 종속 변수 Y : 생존 여부(servied)
+#-- 독립 변수 X : 성별, 나이등의 탑승자 정보
+```
+
+## 1. 결측치 처리
+
+```python
+print(df.isnull().sum()) #-- 결측치 확인
+print(df.dropna(axis=0).shape) #-- 행 기준 제거 --> 데이터를 삭제함 (기본값이므로 axis값을 안줘도 된다.)
+print(df.dropna(axis=1).shape) #-- 열 기준 제거 --> 변수를 삭제함
+```
+
+```python
+df1 = df.copy()
+df1 = pd.DataFrame(df)
+#-- 데이터를 복사할 때 Seanborn 데이터를 다시 데이터프레임 해줘야 함
+```
+
+### 결측치 대체
+
+```python
+df1_median = df1['age'].median()
+print(df1_median) #-- 중앙값 계산
+ 
+df1_mean = df1['age'].mean()
+print(df1_mean)   #-- 평균값 계산
+
+df1['age'] = df['age'].fillna(df1_median) #-- 구한 중앙값(평균값)으로 결측치 대체
+df1.isnull().sum()
+```
+
+## 2. 이상치 처리
+
+### 상자그림 활용 (이상치 : Q1, Q3으로부터 1.5 * IQR을 초과하는 값)
+
+```python
+df = sns.load_dataset('titanic')
+# df.head(5)
+sns.boxplot(df['age'])
+```
+
+```python
+#-- Q1, Q3, IQR(Q3-Q1)을 구하기
+Q1 = df['age'].quantile(0.25)
+Q3 = df['age'].quantile(0.75)
+IQR = Q3 - Q1
+print("Q1 is : {} Q3 is {} IQR is {}".format(Q1, Q3, IQR))
+
+#-- 위아래 이상치 구하기
+upper = Q3 + (1.5*IQR)
+lower = Q1 - (1.5*IQR)
+
+print("upper is {} lower is {}".format(upper, lower))
+```
+
+```python
+cond1 = (df['age'] <= upper)
+cond2 = (df['age'] >= lower)
+print(len(df[cond1 & cond2]))
+```
+
+### 표준정규분포를 활용(이상치 : +=3Z값을 넘어가는 값)
+
+Z = (개별값 - 평균값) / 표준편차
+
+```python
+#-- 평균값, 표준편차 계산
+mean_value = df['age'].mean()
+std_value = df['age'].std()
+print("mean_value is {},  std_value is {}".format(mean_value, std_value))
+
+zscore = (df['age']-mean_value) / std_value
+print("Z value is {}".format(zscore))
+
+cond1 = (zscore > 3)
+cond2 = (zscore < -3)
+print(len(df[cond1]) + len(df[cond2]))
+```
+
+## 3. 중복값 처리
+
+```python
+df = sns.load_dataset('titanic')
+print(df.shape)
+
+df1 = df.copy()
+df1 = df1.drop_duplicates() #-- 데이터가 중복이 있는경우 삭제
+
+print(df1.shape)
+```
+
+# 데이터 스케일링(데이터 표준화, 정규화)
+
+### 1. 데이터 표준화 (Z-score nomalization)
+
+```python
+from sklearn.preprocessing import StandardScaler
+```
+
+```python
+df = sns.load_dataset('titanic')
+df = pd.DataFrame(df)
+
+zscaler = StandardScaler()
+df['fare'] = zscaler.fit_transform(df[['fare']])
+# df.head()
+
+#-- 평균이 0 표준편차가 1인 정규분포로 변환이 잘 되었는지 확인
+print("평균 값 {} 표준편차 값 {}".format(df['fare'].mean(), df['fare'].std()))
+```
+
+### 2. 데이터 정규화(min-max nomalization)
+
+```python
+from sklearn.preprocessing import MinMaxScaler
+```
+
+```python
+df = sns.load_dataset('titanic')
+df = pd.DataFrame(df)
+
+min_max_scaler = MinMaxScaler()
+df['fare'] = min_max_scaler.fit_transform(df[['fare']])
+
+print("최소 값 {} 최대 값 {}".format(df['fare'].min(), df['fare'].max()))
+```
+
+# 데이터 합치기(나온적은 없음)
+
+```python
+df = sns.load_dataset('iris')
+# df.head()
+
+df1 = df.loc[0:30,]
+df2 = df.loc[31:60,]
+
+df_sum = pd.concat([df1, df2], axis = 0) #-- 행 방향으로 합침
+print(df1.shape, df2.shape, df_sum.shape)
+```
+
+# 날짜/시간 데이터, 인덱스 다루기
+
+### 1. 날짜 데이터 다루기
+
+```python
+#-- 임의의 날짜 데이터 생성
+df = pd.DataFrame({
+    '날짜':['20230105', '20230105', '20230223', '20230223', '20230312', '20230422', '20230511'],
+    '물품':['A', 'B', 'A', 'B', 'A', 'B', 'A'],
+    '판매수' :[5, 10, 15, 15, 20, 25, 40],
+    '개당수익' : [500, 600, 500, 600, 600, 700, 600]
+  })
+
+df.info()
+```
+
+```python
+#-- 날짜 데이터를 데이터타입을 변경
+df['날짜'] =  pd.to_datetime(df['날짜'])
+#-- 년, 월, 일 데이터로 분할
+df['year'] =  df['날짜'].dt.year
+df['month'] =  df['날짜'].dt.month
+df['day'] =  df['날짜'].dt.day
+# df.head(5)
+
+#-- 날짜 구간 필터링(방법 1)
+df[df['날짜'].between('2023-01-01', '2023-01-31')]
+```
+
+```python
+#-- 날짜 구간 필터링(방법 2)
+#-- 임의의 날짜 데이터 생성
+df = pd.DataFrame({
+    '날짜':['20230105', '20230105', '20230223', '20230223', '20230312', '20230422', '20230511'],
+    '물품':['A', 'B', 'A', 'B', 'A', 'B', 'A'],
+    '판매수' :[5, 10, 15, 15, 20, 25, 40],
+    '개당수익' : [500, 600, 500, 600, 600, 700, 600]
+  })
+
+df['날짜'] =  pd.to_datetime(df['날짜'])
+df = df.set_index('날짜', drop = True) #-- Drop = True(디폴트) 해당 변수를 제거
+# df
+print(df.loc["2023-01-05": "2023-01-31"])
+```
+
+### 2. 시간 데이터 다루기
+
+```python
+#-- 임의의 시간 데이터 생성
+df = pd.DataFrame({
+    '물품':['A', 'B', 'A', 'B', 'A', 'B', 'A'],
+    '판매수' :[5, 10, 15, 15, 20, 25, 40],
+    '개당수익' : [500, 600, 500, 600, 600, 700, 600]
+  })
+
+time = pd.date_range('2023-09-24 12:25:00' ,'2023-09-25 14:45:30', periods = 7)
+df['time'] = time
+df = df [['time', '물품', '판매수', '개당수익']] #-- 위치 재정렬
+
+df = df.set_index('time') #-- time으로 인덱스 설정
+```
+
+```python
+df.loc["2023-09-24 12:25:00":"2023-09-25 00:25:00"]
+```
